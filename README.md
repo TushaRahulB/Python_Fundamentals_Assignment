@@ -2,13 +2,13 @@
 
 This repository contains the solutions I completed as part of the Python programming assignment during my Data Science Internship at **Tiger Analytics**.
 
-The assignment included 23 Python-based questions aimed at testing core programming skills. These problems involved a wide range of topics such as string manipulation, array operations, control flow, input validation, algorithmic logic, pattern generation, and real-world problem simulation.
+The assignment included 27 Python-based questions aimed at testing core programming skills. These problems involved a wide range of topics such as string manipulation, array operations, control flow, input validation, algorithmic logic, pattern generation, and real-world problem simulation.
 
 I solved each question individually and saved them as separate Python files. I’ve also compiled all solutions into a single Jupyter Notebook for convenience and easier review.
 
 ## Contents
 
-- `question1_answer.py` to `question23_answer.py`: Individual Python files for each solution
+- `question1_answer.py` to `question27_answer.py`: Individual Python files for each solution
 - `all_question_answers.ipynb`: Jupyter Notebook with all questions and solutions combined
 
 ## Topics Covered
