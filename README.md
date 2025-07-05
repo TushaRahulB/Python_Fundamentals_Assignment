@@ -9,7 +9,6 @@ I solved each question individually and saved them as separate Python files. Iâ€
 ## Contents
 
 - `question1_answer.py` to `question27_answer.py`: Individual Python files for each solution
-- `all_question_answers.ipynb`: Jupyter Notebook with all questions and solutions combined
 
 ## Topics Covered
 
@@ -27,7 +26,6 @@ I solved each question individually and saved them as separate Python files. Iâ€
 ## How to Run
 
 - You can run each `.py` file individually using any Python environment.
-- To view and execute all solutions in one place, open `all_question_answers.ipynb` using Jupyter Notebook, Google Colab, or any compatible IDE.
 
 ## About
 
